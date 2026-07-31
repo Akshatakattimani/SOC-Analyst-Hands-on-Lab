@@ -78,22 +78,32 @@ SOC-Analyst-Hands-on-Lab/
 ---
 
 ## 📸 Screenshots
+## 📸 Dashboard Screenshots
 
-The following screenshots demonstrate the implementation of the SOC lab:
+### 1. Failed Login Monitoring Dashboard
 
-- Splunk Enterprise Dashboard
-- Windows Event Log Analysis
-- SSH Monitoring Dashboard
-- Wazuh Dashboard
-- Wazuh Agent Management
-- Active Response Configuration
-- Elastic Security Dashboard
-- Kibana Visualizations
-- Threat Hunting Results
+This dashboard visualizes failed login attempts to help identify suspicious authentication activity.
 
-> Screenshots will be available inside the **screenshots/** directory.
+![Failed Login Dashboard](screenshots/failed_login_dashboard.png)
 
 ---
+
+### 2. Firewall Monitoring Dashboard
+
+This dashboard monitors blocked and allowed network traffic for firewall analysis.
+
+![Firewall Dashboard](screenshots/firewall_dashboard.png)
+
+---
+
+### 3. Web Traffic Monitoring Dashboard
+
+This dashboard provides insights into web traffic patterns and event distribution.
+
+![Web Dashboard](screenshots/web_dashboard.png)
+
+
+
 
 ## 🔎 Security Monitoring Activities
 
