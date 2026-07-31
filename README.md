@@ -78,29 +78,84 @@ SOC-Analyst-Hands-on-Lab/
 ---
 
 ## 📸 Screenshots
-## 📸 Dashboard Screenshots
 
 ### 1. Failed Login Monitoring Dashboard
 
-This dashboard visualizes failed login attempts to help identify suspicious authentication activity.
+Visualizes failed login attempts to identify suspicious authentication activity.
 
 ![Failed Login Dashboard](screenshots/failed_login_dashboard.png)
+
 ---
 
 ### 2. Firewall Monitoring Dashboard
 
-This dashboard monitors blocked and allowed network traffic for firewall analysis.
+Displays blocked and allowed firewall traffic for network monitoring.
 
 ![Firewall Dashboard](screenshots/firewall_dashboard.png)
 
 ---
 
-### 3. Web Traffic Monitoring Dashboard
+### 3. Web Monitoring Dashboard
 
-This dashboard provides insights into web traffic patterns and event distribution.
+Shows web server activity and HTTP log analysis.
 
 ![Web Dashboard](screenshots/web_dashboard.png)
 
+---
+
+### 4. Wazuh Threat Hunting
+
+Threat hunting events used to investigate security alerts.
+
+![Wazuh Threat Hunting](screenshots/wazuh_threat_hunting.png)
+
+---
+
+### 5. Wazuh HIPAA Dashboard
+
+HIPAA compliance monitoring dashboard.
+
+![Wazuh HIPAA Dashboard](screenshots/wazuh_hipaa_dashboard.png)
+
+---
+
+### 6. Wazuh PCI DSS Dashboard
+
+PCI DSS compliance monitoring and alert visualization.
+
+![Wazuh PCI DSS Dashboard](screenshots/wazuh_pci_dss_dashboard.png)
+
+---
+
+### 7. Wazuh Vulnerability Dashboard
+
+Vulnerability detection and severity overview.
+
+![Wazuh Vulnerability Dashboard](screenshots/wazuh_vulnerability_dashboard.png)
+
+---
+
+### 8. Elastic Discover – SSH Logs
+
+SSH authentication logs collected and analyzed in Elastic Discover.
+
+![Elastic Discover SSH Logs](screenshots/elastic_discover_ssh_logs.png)
+
+---
+
+### 9. Elastic Discover Visualization
+
+Visualization of SSH events over time.
+
+![Elastic Discover Visualization](screenshots/elastic_discover_visualization.png)
+
+---
+
+### 10. Elastic Security Dashboard
+
+Dashboard showing failed SSH login events and authentication failures.
+
+![Elastic Security Dashboard](screenshots/elastic_security_dashboard.png)
 
 
 
