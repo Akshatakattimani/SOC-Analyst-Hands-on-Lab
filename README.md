@@ -84,7 +84,7 @@ SOC-Analyst-Hands-on-Lab/
 
 This dashboard visualizes failed login attempts to help identify suspicious authentication activity.
 
-![Failed Login Dashboard](screenshots/failed_login_dashboard. png)
+![Failed Login Dashboard](screenshots/failed_login_dashboard.png)
 ---
 
 ### 2. Firewall Monitoring Dashboard
