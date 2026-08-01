@@ -17,20 +17,9 @@ This project demonstrates the design and implementation of a hands-on Security O
 
 ---
 
-## 🏗️ Lab Architecture
+## 🏗️ SOC Lab Architecture
 
-### Lab Components
-
-- **Host Machine:** Windows 11
-- **Virtualization Platform:** Oracle VirtualBox
-- **Attacker Machine:** Kali Linux
-- **Target Machine:** Windows
-- **SIEM Platform:** Splunk Enterprise
-- **Endpoint Detection & Response:** Wazuh
-- **Security Analytics:** Elastic Security
-- **Visualization:** Kibana
-
----
+![SOC Lab Architecture](diagrams/soc_lab_architecture.png)
 
 ## 🛠️ Technologies Used
 
